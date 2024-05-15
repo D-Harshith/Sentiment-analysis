@@ -11,3 +11,6 @@ The objective of this project is to create an advanced emotion classification mo
 * Model Selection: Various machine learning and deep learning models are explored for emotion classification, including but not limited to Support Vector Machines (SVM), Random Forest, and neural network architectures.
 * Model Training: The selected model is trained on the annotated dataset, optimizing its parameters to achieve high accuracy and robustness in emotion classification.
 * Model Evaluation: The trained model is evaluated using metrics such as accuracy, precision, recall, and F1-score to assess its performance in classifying emotions across various contexts.
+
+
+*Submission.csv file has the outputs that are predicted by the NLP model on test.csv.
